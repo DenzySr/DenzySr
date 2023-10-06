@@ -6,10 +6,10 @@
 [![Instagram Badge](https://img.shields.io/badge/-@eoadrian-04d361?style=flat-square&labelColor=555555&logo=instagram&logoColor=white)](https://www.instagram.com/_eoadrian/)
 
 
-- 🔥 FrontEnd Developer
-- 🌱 Currently working on personal projects
-- 🔭 Working on my portfolio for 2024
-- ⚡ Fun fact: I love to make lyrics videos, play video games and learn new things
+- 🖥  FrontEnd Developer
+- 📝 Currently working on personal projects
+- 🔜 Working on my portfolio for 2024
+- 🎬 Fun fact: I love to make lyrics videos, play video games and learn new things
 
 <br>
 
