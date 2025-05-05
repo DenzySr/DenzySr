@@ -7,7 +7,7 @@
 
 - 🖥  FrontEnd Developer
 - 📝 Currently working on personal projects
-- 🔜 Working on my portfolio for 2024
+- 🔜 Working on my portfolio for 2025
 - 🎬 Fun fact: I love to make lyrics videos, play video games and learn new things
 
 <br>
