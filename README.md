@@ -13,5 +13,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DenzySr&icon=0&color=13)](https://visitcount.itsvg.in)
+[![CodeTime Badge](https://img.shields.io/endpoint?style=flat-square&color=816&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D33214)](https://codetime.dev)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
